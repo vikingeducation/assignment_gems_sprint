@@ -1,2 +1,5 @@
 # assignment_gems_sprint
-Mining for glory
+
+This is an assignment on creating a ruby gem that I completed for the Viking Code School, a coding bootcamp
+
+Dan
