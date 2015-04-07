@@ -6,7 +6,7 @@ This gem allows for a game of rock, paper, scissors to be played with one player
 
 Install the gem:
 
-  $ gem install jankenpon
+  `$ gem install jankenpon`
 
 Require it in your file or in IRB/Pry:
 
