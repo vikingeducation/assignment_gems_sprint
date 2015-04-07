@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NUM_CO",
+				"NUM_COLUMNS"
+			],
+			[
+				"player_1",
+				"player_1_wins"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"master_code",
+				"master_code_input"
+			],
+			[
+				"delete",
+				"delete_at"
+			],
+			[
+				"ending",
+				"ending_type"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"outpu",
+				"output_buffer"
+			],
+			[
+				"play",
+				"t.play"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"number",
+				"number_array"
+			],
+			[
+				"map",
+				"number_array.map"
+			],
+			[
+				"return",
+				"return_two_digit_number"
+			],
+			[
+				"words",
+				"words_to_19"
+			],
+			[
+				"up",
+				"up_to_20_in_words"
+			],
+			[
+				"run",
+				"run_times"
+			],
+			[
+				"capital",
+				"capitalize_index"
+			],
+			[
+				"capitaliz",
+				"capitalize_index"
+			],
+			[
+				"this",
+				"this_word"
+			],
+			[
+				"inclu",
+				"vowels.include?"
+			],
+			[
+				"num",
+				"num_players"
+			],
+			[
+				"curren",
+				"current_number"
+			],
+			[
+				"get",
+				"get_next_index"
+			],
+			[
+				"current",
+				"current_index"
+			],
+			[
+				"count",
+				"counting_game"
+			],
+			[
+				"coun",
+				"counting_game"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "git push",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"colorcode",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"ruby colo",
+				"Set Syntax: Ruby (Colorcode)"
+			],
+			[
+				"colorco",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Merge Lines"
+			],
+			[
+				"emmet exp",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Git commit",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"load",
+				"SublimeREPL: Load current file"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Load current file"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"laod",
+				"SublimeREPL: Load current file"
+			],
+			[
+				"load ",
+				"SublimeREPL: Load current file"
+			],
+			[
+				"repl rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ruby irb",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"sublime ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ru y",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"reby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/.gitignore",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/lib/rps_telwell/version.rb",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/lib/rps_telwell/rps.rb",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/lib/rps_telwell.rb",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/rps_telwell.gemspec",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/lib/player.rb",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/lib/board.rb",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/rps_telwell/Gemfile",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/rock_paper_scissors/rock_paper_scissors.rb",
+		"/Users/telwell/.bash_profile",
+		"/Users/telwell/Desktop/VCS/assignment_gems_sprint/README.md",
+		"/Users/telwell/.bash-profile",
+		"/Users/telwell/Desktop/VCS/streverser_gem/lib/strreverser_telwell/version.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/lib/strreverser_telwell/word.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/lib/strreverser_telwell.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/lib/word.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/.gitignore",
+		"/Users/telwell/Desktop/VCS/streverser_gem/strreverser_telwell/.gitignore",
+		"/Users/telwell/Desktop/VCS/streverser_gem/strreverser_telwell/lib/strreverser_telwell.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/strreverser_telwell/lib/strreverser_telwell/version.rb",
+		"/Users/telwell/Desktop/VCS/streverser_gem/strreverser_telwell/strreverser_telwell.gemspec",
+		"/Users/telwell/Desktop/VCS/streverser_gem/streverser.gemspec",
+		"/Users/telwell/Desktop/VCS/streverser/lib/streverser.rb",
+		"/Users/telwell/Desktop/VCS/streverser/streverser.gemspec",
+		"/Users/telwell/Desktop/VCS/streverser/pkg/streverser-0.0.1.gem",
+		"/Users/telwell/Desktop/VCS/streverser/lib/streverser/version.rb",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/connect_four/connect_four.rb",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/connect_four/player.rb",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/connect_four/board.rb",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/Users/telwell/Desktop/VCS/solution_mastermind/mastermind.rb",
+		"/Users/telwell/Desktop/VCS/assignment_toh/toh.rb",
+		"/Users/telwell/Desktop/VCS/assignment_mastermind/mastermind.rb",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/warmup/warmup.rb",
+		"/Users/telwell/Desktop/VCS/project_ruby_game_center/README.md",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/telwell/Desktop/VCS/assignment_mastermind/README.md",
+		"/Users/telwell/Desktop/VCS/assignment_toh/ttt.rb",
+		"/etc/hosts",
+		"/Users/telwell/Desktop/VCS/assignment_toh/README.md",
+		"/Users/telwell/Desktop/VCS/prep_facebook_pages/index.html",
+		"/Users/telwell/Downloads/Duta MAIN.sql",
+		"/Users/telwell/Desktop/scanlogs.txt",
+		"/Users/telwell/Desktop/Steencamp COM.sql",
+		"/Users/telwell/Desktop/Larry ORG.sql",
+		"/Users/telwell/Desktop/nm/test/test.js",
+		"/Users/telwell/Desktop/VCS/bootstrappy_smile/styles/sass/style.css.scss",
+		"/Users/telwell/Desktop/VCS/bootstrappy_smile/index.html",
+		"/Users/telwell/Desktop/VCS/assignment_markup_warmup_sprint/styles/sass/styles.css.scss",
+		"/Users/telwell/Desktop/VCS/assignment_markup_warmup_sprint/index.html",
+		"/Users/telwell/Desktop/VCS/bootstrappy_smile/inde",
+		"/Users/telwell/Desktop/Cedar_ORG.sql",
+		"/Users/telwell/Desktop/Cedar_COM.sql",
+		"/Users/telwell/Desktop/CDC_COM.sql",
+		"/Users/telwell/Desktop/VCS/assignment_markup_warmup_sprint/styles/sass/includes/_reset.css.scss",
+		"/Users/telwell/Desktop/VCS/assignment_markup_warmup_sprint/styles.css.scss",
+		"/Users/telwell/blogger/app/views/articles/index.html.erb",
+		"/Users/telwell/blogger/config/routes.rb",
+		"/Users/telwell/blogger/app/views/articles/_comment.html.erb",
+		"/Users/telwell/blogger/app/views/comments/_form.html.erb",
+		"/Users/telwell/blogger/app/views/articles/show.html.erb",
+		"/Users/telwell/blogger/app/controllers/comments_controller.rb",
+		"/Users/telwell/blogger/app/controllers/articles_controller.rb",
+		"/Users/telwell/blogger/app/views/articles/new.html.erb",
+		"/Users/telwell/blogger/app/views/articles/_form.html.erb",
+		"/Users/telwell/blogger/app/views/articles/edit.html.erb",
+		"/Users/telwell/blogger/db/migrate/20150319024442_create_articles.rb",
+		"/Users/telwell/blogger/app/views/layouts/application.html.erb",
+		"/Users/telwell/blogger/app/models/article.rb",
+		"/Users/telwell/Desktop/VCS/pairing_checkin/README.md",
+		"/Users/telwell/Desktop/VCS/learn_ruby/15_in_words/in_words.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/10_temperature_object/temperature.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/10_temperature_object/temperature_object_spec.rb",
+		"/Users/telwell/blogger/app/helpers/articles_helper.rb",
+		"/Users/telwell/blogger/app/assets/stylesheets/screen.css",
+		"/Users/telwell/Desktop/VCS/learn_ruby/15_in_words/in_words_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/14_array_extensions/array_extensions.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/14_array_extensions/array_extensions_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/10_temperature_object/temperature",
+		"/Users/telwell/Desktop/VCS/learn_ruby/12_rpn_calculator/rpn_calculator.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/12_rpn_calculator/rpn_calculator_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/11_dictionary/dictionary_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/11_dictionary/dictionary.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/09_timer/timer_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/09_timer/timer.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/09_timer/timer_orig.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/08_book_titles/book.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/08_book_titles/book_titles_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/08_book_titles/book_titles.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/07_hello_friend/friend.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/07_hello_friend/hello_friend_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/07_hello_friend/hello_friend.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/06_performance_monitor/performance_monitor.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/06_performance_monitor/performance_monitor_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/05_silly_blocks/silly_blocks_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/05_silly_blocks/silly_blocks.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/04_pig_latin/pig_latin_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/04_pig_latin/pig_latin.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/03_simon_says/simon_says.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/03_simon_says/simon_says_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/02_calculator/calculator_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/02_calculator/calculator.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/01_temperature/temperature_spec.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/01_temperature/temperature.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/00_hello/hello.rb",
+		"/Users/telwell/Desktop/VCS/learn_ruby/00_hello/hello_spec.rb",
+		"/Users/telwell/Desktop/VCS/prep_ruby_challenges/countingGame.rb",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/LoadFileToRepl/README.markdown",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/telwell/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"better",
+			"7",
+			"a",
+			"include",
+			"7",
+			"Down",
+			"  ",
+			"binding.",
+			"pry",
+			"size",
+			"http://",
+			"\\n",
+			"duta",
+			"http://andreiduta.com/wp-content/uploads",
+			"wp-content/uploads",
+			"wp_",
+			"/wp-.+",
+			"/wp-*+",
+			"/home/users/web/b2798/pow.bevansbranhamcom/",
+			"<?php $ldjamm=chr(99)",
+			"wp_",
+			"larry_",
+			"throw err",
+			"bottom",
+			"/sites/",
+			"multisitelogin.com/carlceder-org",
+			"wp_472_",
+			"uploads/carlceder-com/sites",
+			"multisitelogin.com/carlceder-com",
+			"wp_469_",
+			"--",
+			"uploads/carldavidceder-com/sites",
+			"/sites/",
+			"uploads/sites/468",
+			"uploads/carldavidceder-com",
+			"carldavidceder-com",
+			"multisitelogin.com/carldavidceder-com",
+			"wp_468_",
+			"@@words ",
+			"@@words",
+			"capitalized_index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			" ",
+			"http://andreiduta.com/wp-content/uploads/sites/20",
+			"wp_20_",
+			"",
+			"wp_2_",
+			"wp_",
+			"carlceder.org",
+			"wp_",
+			"uploads/sites",
+			"carlceder.com",
+			"wp_",
+			"uploads/sites",
+			"uploads/sites/468",
+			"carldavidceder.com",
+			"wp_",
+			"@words"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "rps_telwell.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

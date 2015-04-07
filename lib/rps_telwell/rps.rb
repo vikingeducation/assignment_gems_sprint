@@ -7,7 +7,6 @@ class RockPaperScissors
 		@board = Board.new
 		# Could use a constant (or @@class variable) for this
 		@moves = ["rock","paper","scissors"]
-		start
 	end
 
 	# Start the game!
