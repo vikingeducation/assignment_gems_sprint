@@ -6,12 +6,12 @@ require 'rps_telwell/version'
 Gem::Specification.new do |spec|
   spec.name          = "rps_telwell"
   spec.version       = RpsTelwell::VERSION
-  spec.authors       = ["telwell"]
+  spec.authors       = ["Trevor Elwell"]
   spec.email         = ["me@trevorelwell.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "For my coding school, VCS, I need to make a rock, paper, scissors gem."
+  spec.description   = "One of my assignments is to make a rock, paper, scissors gem and make sure it's up and running!"
+  spec.homepage      = "http://trevorelwell.com"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
+    spec.metadata['allowed_push_host'] = ""
   end
 
   spec.add_development_dependency "bundler", "~> 1.9"
