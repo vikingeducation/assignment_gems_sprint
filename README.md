@@ -2,3 +2,6 @@
 Mining for glory
 
 Student: Adam Kinson
+
+Install by entering:
+$ gem install rockpaperkinson
