@@ -3,5 +3,10 @@ require "rockpaperkinson/rock_paper_scissors"
 require "rockpaperkinson/player"
 
 module Rockpaperkinson
-  # Your code goes here...
+
+  def self.new_game
+    r = RockPaperScissors.new
+    r.play
+  end
+
 end

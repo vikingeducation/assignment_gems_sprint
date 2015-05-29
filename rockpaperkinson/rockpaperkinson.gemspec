@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["adam.kinson@gmail.com"]
 
   spec.summary       = %q{Adds a class that lets you play a dynamite game of Rock, Paper, Scissors.}
-  spec.homepage      = "n/a"
+  spec.homepage      = "http://www.vikingcodeschool.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
