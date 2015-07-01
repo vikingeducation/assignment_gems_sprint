@@ -6,8 +6,8 @@ require 'rpsgame/version'
 Gem::Specification.new do |spec|
   spec.name          = "rpsgame"
   spec.version       = Rpsgame::VERSION
-  spec.authors       = ["ayva"]
-  spec.email         = ["olga.ayva@gmail.com"]
+  spec.authors       = ["ayva", "Alice"]
+  spec.email         = ["olga.ayva@gmail.com", "alice.o.fung@gmail.com"]
 
   spec.summary       = %q{Rock Paper Scissors game}
   spec.description   = %q{}

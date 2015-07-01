@@ -2,3 +2,4 @@
 Mining for glory
 
 Olga Ayvazyan
+Alice Fung
