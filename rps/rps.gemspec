@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rps/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "rps"
+  spec.name          = "alok_donald_rps"
   spec.version       = Rps::VERSION
   spec.authors       = ["alokp", "dmkelsey"]
   spec.email         = ["alokpra@gmail.com", "dmkelseyII@gmail.com"]
