@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Gem to play Rock Paper Scissors}
   spec.description   = %q{You can play the popular RPS game in solo mode or multiplayer mode}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/david-meza/assignment_gems_sprint.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
