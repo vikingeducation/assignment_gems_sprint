@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Basic Rock Paper Scissors}
   spec.description   = %q{Basic Rock Paper Scissors}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "www.vikingcodeschool.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
